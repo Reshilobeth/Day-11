@@ -1,15 +1,15 @@
 <html lang="en">
-    <head>
-        <title>Document
-            <body>
-                guvi
-    </head>
-    <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <div>
-            <div>
-                Guvi Geek Network
-            </div>
-        </body>
-    </html>
- 
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+   <div>Lorem, ipsum dolor sit amet consectetur 
+       adipisicing elit. Facere ab cum esse! Expedita 
+       amet voluptatem aliquam distinctio deserunt debitis 
+       hic id excepturi voluptas dolorem quos, 
+       possimus rem illum repellendus error.</div>
+
+<script src="index.js"></script>   
+</body>
+</html>
